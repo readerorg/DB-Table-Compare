@@ -1,0 +1,32 @@
+﻿div {
+padding:5px;
+
+}
+p {
+margin-bottom:0px;
+}
+.horizontalDiv {
+display:flex;
+ flex-direction: row; 
+ justify-content: flex-start; 
+ align-items: center;
+}
+.invisible { display:none; }
+
+.mGrid1 {
+	width: 100%;
+	font-family: tahoma;
+}
+
+	.mGrid1 td /* this applies to the Gridviews Data fileds */ {
+		padding: 5px;
+		text-align: center;
+		border: solid 1px black;
+		border-collapse: collapse;
+	}
+
+	.mGrid1 th /* this applies to the Gridviews Headers */ {
+		padding: 5px;
+		border-width: 1px;
+		text-align: center;
+	}

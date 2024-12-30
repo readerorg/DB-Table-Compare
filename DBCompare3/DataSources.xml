@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <NewDataSet />
+  <NewDataSet>
+    <Connection_x0020_Name>SQLSERVERTEST</Connection_x0020_Name>
+    <Data_x0020_Source>SQL Server</Data_x0020_Source>
+    <Path>10.147.17.29</Path>
+    <User_x0020_Name>sa</User_x0020_Name>
+    <Password>123</Password>
+    <Database_x0020_Name>StoreDB_505</Database_x0020_Name>
+  </NewDataSet>
+  <NewDataSet>
+    <Connection_x0020_Name>SQLITETEST</Connection_x0020_Name>
+    <Data_x0020_Source>SQLite</Data_x0020_Source>
+    <Path>20231112invoiceSQLite.db</Path>
+    <User_x0020_Name />
+    <Password />
+    <Database_x0020_Name />
+  </NewDataSet>
+  <NewDataSet>
+    <Connection_x0020_Name>mysqltest</Connection_x0020_Name>
+    <Data_x0020_Source>MySQL</Data_x0020_Source>
+    <Path>mysql5026.site4now.net</Path>
+    <User_x0020_Name>a3269b_vetdrug</User_x0020_Name>
+    <Password>00000000a</Password>
+    <Database_x0020_Name>db_a3269b_vetdrug</Database_x0020_Name>
+  </NewDataSet>
+</NewDataSet>
